@@ -1,3 +1,3 @@
 # Analyzing-Homicide-Rate-per-Countries
 
-## • I aimed to analyze the data and identify trends in child homicide rates across various countries over the past 40-60 years. The original dataset, titled "child_homicide_original.csv," is available in the repository.
+## • I aimed to analyze the data and identify trends in child homicide rates across various countries over the past 40-60 years. The original dataset, titled "child_homicide_original.csv," is available in the repository. (Homicide rate per 100,000 population - Both Sexes - Age 0-19)
