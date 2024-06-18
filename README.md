@@ -5,3 +5,5 @@
 ## • Read in the "ChildHomicidePerCountryByYears.ipynb" document to be able to observe the data cleaning process and finding correlations, visualizing them using panda and numpy libraries.
 
 ## • The two other csv files (child_homicide_modified.csv and child_homicide_numerized.csv) are the results of querying, analyzing, cleaning data.
+
+## • I have also recorded the highest Homicide Rate per each country that was ever recorded from the original data and visualized the data in Tableau using world map. It is available in the repository
