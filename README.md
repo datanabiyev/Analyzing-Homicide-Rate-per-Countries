@@ -6,4 +6,4 @@
 
 ## • The two other csv files (child_homicide_modified.csv and child_homicide_numerized.csv) are the results of querying, analyzing, cleaning data.
 
-## • I have also recorded the highest Homicide Rate per each country that was ever recorded from the original data and visualized the data in Tableau using world map. It is available in the repository
+## • I have also recorded the highest Homicide Rate per each country that was ever recorded from the original data and visualized the data in Tableau using world map. The resulting data has been stored into the "highest_child_homicide_percountry.csv" document. Both the file and the Tableau visualization available in the repository
